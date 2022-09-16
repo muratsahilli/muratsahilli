@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Murat
 
-<!--
-**muratsahilli/muratsahilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on python
+- 🌱 I’m currently learning machine learning algorithms and deep learning 
+- 👯 I’m looking to collaborate on other content creators 
+- 📫 How to reach me: msahilli13@gmail.com 
 
-Here are some ideas to get you started:
+## Connect With Me
+[<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/murat-sahilli-b4394819b/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratsahilli)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=muratsahilli&show_icons=true)  
+
