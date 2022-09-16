@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on python
 - 🌱 I’m currently learning machine learning algorithms and deep learning 
-- 👯 I’m looking to collaborate on other content creators 
 - 📫 How to reach me: msahilli13@gmail.com 
 
 ## Connect With Me
